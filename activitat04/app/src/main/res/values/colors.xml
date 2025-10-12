@@ -2,4 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="card">#5F5F5F</color>
+
+    <color name="famale_color">#37016D</color>
+    <color name="male_color">#220073</color>
+    <color name="background_color">#490025</color>
+    <color name="background2_color">#6A0549</color>
+    <color name="element_selected_color">#D77B92</color>
+    <color name="element_color">#A94460</color>
+    <color name="button_color">#5188A9</color>
+
 </resources>

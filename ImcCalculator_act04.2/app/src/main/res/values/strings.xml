@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinImcApp</string>
+    <string name="male">hombre</string>
+    <string name="famale">mujer</string>
+</resources>
