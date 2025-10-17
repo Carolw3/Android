@@ -13,5 +13,6 @@
     <color name="element_selected">#940E5A</color>
     <color name="element">#9D3068</color>
     <color name="button">#4B007A</color>
+    <color name="little_button">#6A32A2</color>
     <color name="symbol">#3E25AB</color>
 </resources>

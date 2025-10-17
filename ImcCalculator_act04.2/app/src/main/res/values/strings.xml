@@ -2,4 +2,25 @@
     <string name="app_name">KotlinImcApp</string>
     <string name="male">hombre</string>
     <string name="famale">mujer</string>
+    <string name="altura">altura</string>
+    <string name="weight">peso</string>
+    <string name="age">edad</string>
+    <string name="title">Imc Calculator</string>
+    <string name="result">Tu Resultado</string>
+    <string name="reCalculate_string">Recalculate</string>
+    
+    
+    <string name="error">Error</string>
+
+    <string name="title_bajo_peso">Bajo Peso</string>
+    <string name="description_bajo_peso">Su peso esta por debajo de la normalidad</string>
+
+    <string name="title_peso_normal">Peso Normal</string>
+    <string name="description_peso_normal">Su peso es adecuado a su altura, dentro del rango de la normalidad</string>
+
+    <string name="title_sobrepeso">Sobrepeso</string>
+    <string name="description_sobrepeso">Su peso esta ligeramente por encima de la normalidad</string>
+
+    <string name="title_obesidad">Obesidad</string>
+    <string name="description_obesidad">Su peso se encuentra lejos del rango de la normalidad</string>
 </resources>

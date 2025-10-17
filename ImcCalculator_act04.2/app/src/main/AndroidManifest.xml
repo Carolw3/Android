@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KotlinImcApp">
         <activity
+            android:name=".ResultIMCActivity"
+            android:exported="false" />
+        <activity
             android:name=".ImcCalculaorActivity"
             android:exported="true">
             <intent-filter>
